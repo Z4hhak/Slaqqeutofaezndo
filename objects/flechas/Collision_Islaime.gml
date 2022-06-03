@@ -1,0 +1,2 @@
+global.VidaIslaime -= 1
+

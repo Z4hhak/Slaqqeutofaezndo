@@ -1,0 +1,1 @@
+global.TorpoIslaime -=1
